@@ -5,7 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+
+  - block: features
     content:
       title: |
          <span style="font-size:70%">- 김채현 -
