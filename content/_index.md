@@ -14,12 +14,7 @@ sections:
         <br><span style="font-size:125%">깊이 있는 지식과 경험으로 
         본질에 집중하는 개발자입니다.</span> <br><br> 
       {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
-      announcement:
-        text: Announcing the release of version 1.
-        link:
-          text: Read more
-          url: https://example.com
-
+    
   
   - block: collection
     content:
