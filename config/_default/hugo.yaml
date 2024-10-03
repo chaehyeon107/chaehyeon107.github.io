@@ -3,14 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: MacsLAB # Website name
+baseURL: 'https://jbnu.macs.or.kr/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -18,7 +18,8 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+build:
+  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
