@@ -5,17 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
-
-  - block: features
+  - block: hero
     content:
       title: |
-         <span style="font-size:70%">- 김채현 -
+        <span style="font-size:70%">- 김채현 -
         백엔드 개발자 포트폴리오</span>
-      text: |
+      text: 
         <br><span style="font-size:125%">깊이 있는 지식과 경험으로 
         본질에 집중하는 개발자입니다.</span> <br><br> 
       {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
-    
+      
+
   
   - block: collection
     content:
