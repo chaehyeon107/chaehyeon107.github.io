@@ -3,17 +3,18 @@
 title:
 date: 2022-10-24
 type: landing
+banner:
+    image: 'content.png'
+    caption: 'Image credit: [**Geo**](me)'
 
 sections:
-  - block: hero
+    - block: hero
     content:
       title: |
-        <span style="font-size:70%">- 김채현 -
-        백엔드 개발자 포트폴리오</span>
+        <span style="font-size:70%">백엔드 개발자 김채현입니다.</span>
       text: 
-        <br><span style="font-size:125%">깊이 있는 지식과 경험으로 
-        본질에 집중하는 개발자입니다.</span> <br><br> 
-      {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
+        <br><span style="font-size:125%">깊이 있는 지식과 경험으로 본질에 집중하는 개발자입니다.</span> <br><br> 
+        {{% cta cta_link="./contact/" cta_text="See Research Field →" %}}
       
 
   
