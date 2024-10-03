@@ -8,14 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+         <span style="font-size:70%">- 김채현 -
+        백엔드 개발자 포트폴리오</span>
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <br><span style="font-size:125%">깊이 있는 지식과 경험으로 
+        본질에 집중하는 개발자입니다.</span> <br><br> 
+      {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
+      announcement:
+        text: Announcing the release of version 1.
+        link:
+          text: Read more
+          url: https://example.com
+
   
   - block: collection
     content:
