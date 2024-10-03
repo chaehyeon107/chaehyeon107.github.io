@@ -8,7 +8,7 @@ banner:
     caption: 'Image credit: [**Geo**](me)'
 
 sections:
-    - block: hero
+  - block: hero
     content:
       title: |
         <span style="font-size:70%">백엔드 개발자 김채현입니다.</span>
