@@ -34,13 +34,18 @@
         <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
     </div>
     
+
     {{ if eq .Title "김채현" }}
-      <div class="skills-section-wrapper">
-        <div class="btn-links">
-          {{ partial "views/community/tech_stack.html" . }}
-        </div>
+      <div class="hero-section-wrapper">
+        {{ partial "views/hero.html" . }}
       </div>
     {{ end }}
+
+    <section class="content-section">
+      {{ .Content }}
+    </section>
+
+    
 
 
     {{ if $item.Params.authors }}

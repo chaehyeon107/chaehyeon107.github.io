@@ -66,16 +66,22 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+--- 
+{{ if eq .Title "김채현" }}
+  <!-- hero_and_skills.css 파일을 로드 -->
+  <link rel="stylesheet" href="{{ "css/hero_and_skills.css" | relURL }}">
+
+  <!-- hero.html 템플릿을 추가 -->
+  <div class="hero-section-wrapper">
+    {{ partial "views/hero.html" . }}
+  </div>
+{{ end }}
+
+<section class="content-section">
+  {{ .Content }}
+</section>
 
 sections:
-  - block: tech_stack
-    content:
-      title: 'Tech Stack'
-      text: ''
-      username: admin
-    design:
-      columns: '1'
-  
   - block: features
     id: features
     content:
@@ -119,4 +125,3 @@ sections:
           icon_pack: fas
           description: |
             개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
----
