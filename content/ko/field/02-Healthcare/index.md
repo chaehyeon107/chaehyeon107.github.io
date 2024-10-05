@@ -1,5 +1,5 @@
 ---
-title: 헬스케어 (Healthcare) 연구 주제
+title: The BELT 3M 큰사람 자기설계 애플리케이션
 date: 2024-03-28
 ---
 

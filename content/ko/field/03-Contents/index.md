@@ -1,5 +1,5 @@
 ---
-title: 컨텐츠 (Contents & Webtoon AI) 기반 연구 주제
+title: 유기견 보호 데이터베이스 프로젝트
 date: 2024-03-27
 ---
 

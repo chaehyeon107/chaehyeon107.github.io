@@ -32,7 +32,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">Profile</span>
           text-color: '#000'
-          url: 
+          url: authors/admin
 
       - title: <span style="font-size:70%">Project</span>
         content: <span style="font-size:70%">수행한 프로젝트를 확인합니다.<span style="font-size:70%">
@@ -64,9 +64,9 @@ sections:
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">Inform</span>
           text-color: '#000'
-          url: 
+          url: field
 
       - title: <span style="font-size:70%">Contact</span>
         content: <span style="font-size:70%">연락할 수 있는 방안을 확인합니다.</span>
@@ -81,7 +81,7 @@ sections:
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">Contact</span>
           text-color: '#000'
           url: contact
 

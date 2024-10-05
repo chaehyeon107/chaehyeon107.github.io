@@ -66,66 +66,45 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
+sections:
+  - block: tech_stack
+    content:
+      title: 'Tech Stack'
+      text: ''
+      username: admin
+    design:
+      columns: '1'
+  
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">채현's CODING Interests</span>
+      text: 현재 진행하고 있는 공부 분야 및 개발 관심사를 소개합니다.<br><br><br><br>
+      items:
+        - name: 알고리즘(Algorithm)
+          icon: code-branch
+          icon_pack: fas
+          description: <span style="font-size:90%">전북대학교 컴퓨터인공지능학부 알고리즘 동아리 ALPS 소속으로 백준 사이트에서 <strong>알고리즘 학습 진행</strong>.</span><br><br>
+        - name: spring 프레임워크 (Spring Framework)
+          icon: seedling
+          icon_pack: fas
+          description:  <span style="font-size:90%">인프런 사이트 인강을 통해 <strong>spring 프레임워크 기초</strong>를 학습 중.</span><br><br>
+        - name: 클라우드 컴퓨팅 (Cloud Computing)
+          icon: calculator
+          icon_pack: fas
+          description:  <span style="font-size:90%">인프라 관리 및 서비스 배포 등 클라우드 컴퓨팅에 관한 지식을 탐구 중. <strong>aws 관련 자격증 취득 공부</strong>를 목표로 함.</span><br><br>
+        - name: 데이터 아키텍쳐 설계 (Data Architecture)
+          icon: chart-line
+          icon_pack: fas
+          description:  <span style="font-size:90%">추후 진행할 전북대학교 맛집 프로젝트의 데이터 아키텍쳐 설계를 목표로 함. 목표를 달성하기 위한 첫 걸음으로 현재 <strong>sqld 자격증 공부</strong> 진행 중.</span><br><br>
+        - name: 개발 (Development)
+          icon: laptop
+          icon_pack: fas
+          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발. 현재 <strong>전북대학교 맛집 웹앱 프로젝트</strong>를 계획 중.</span><br><br>
+        - name: 영어회화(Multi-modality)
+          icon: globe
+          icon_pack: fas
+          description:  <span style="font-size:90%">개발자의 덕목인 영어를 자유롭게 구사하기 위해 <strong>회화 공부</strong> 진행.</span><br><br>
+
 ---
-<!-- layouts/partials/views/community/tech_stack.html -->
-<!-- Skills Section -->
-<section id="skills" class="skills-section">
-  <h2>SKILLS ABILITY</h2>
-
-  <!-- Language/Framework/Library -->
-  <div class="skills-category">
-    <h3>Language/Framework/Library</h3>
-    <h4>편해요</h4>
-    <div class="skill-icons">
-      <span class="skill">React.js</span>
-      <span class="skill">JavaScript(ES6+)</span>
-      <span class="skill">HTML5</span>
-      <span class="skill">SASS / CSS3</span>
-      <span class="skill">Git</span>
-      <span class="skill">Oracle / MySQL</span>
-      <span class="skill">jQuery</span>
-      <span class="skill">Bootstrap</span>
-    </div>
-    <h4>어느정도 사용할 수 있어요</h4>
-    <div class="skill-icons">
-      <span class="skill">C / C++</span>
-      <span class="skill">Java</span>
-      <span class="skill">Django</span>
-      <span class="skill">Python</span>
-      <span class="skill">JSP</span>
-      <span class="skill">Markdown</span>
-    </div>
-    <h4>사용해봤어요</h4>
-    <div class="skill-icons">
-      <span class="skill">React Native</span>
-      <span class="skill">Android(Kotlin)</span>
-      <span class="skill">Spring</span>
-    </div>
-  </div>
-
-  <!-- Tools/Analytics -->
-  <div class="skills-category">
-    <h3>Tools/Analytics</h3>
-    <h4>편해요</h4>
-    <div class="skill-icons">
-      <span class="skill">Amplitude</span>
-      <span class="skill">Redash</span>
-      <span class="skill">Google Analytics</span>
-      <span class="skill">Google Tag Manager</span>
-    </div>
-    <h4>어느정도 사용할 수 있어요</h4>
-    <div class="skill-icons">
-      <span class="skill">AWS - CloudFront</span>
-      <span class="skill">AWS - S3</span>
-      <span class="skill">Firebase - hosting</span>
-      <span class="skill">Sentry</span>
-      <span class="skill">Eclipse</span>
-    </div>
-    <h4>사용해봤어요</h4>
-    <div class="skill-icons">
-      <span class="skill">Hot Jar</span>
-      <span class="skill">Android Studio</span>
-      <span class="skill">PyCharm</span>
-    </div>
-  </div>
-</section>
