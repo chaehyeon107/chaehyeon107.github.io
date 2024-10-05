@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="{{ "css/tech_stack.css" | relURL }}">
+<section id="techstack" class="techstack-section">
+  <h2>Tech Stack</h2>
+
+  {{ range .Params.techstack }}
+    <div class="techstack-category">
+      <h3>{{ .name }}</h3>
+      
+      <div class="techstack-icons">
+        {{ range .items }}
+          <span class="tech">{{ .name }}</span>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+</section>

@@ -1,0 +1,19 @@
+[module]
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms"
+    disable = false
+    # hugo-blox 모듈의 우선순위를 낮게 설정 (1보다 큰 수치)
+    # 기본적으로 낮은 우선순위일수록 먼저 적용됩니다.
+    mounts = [
+      { source = "layouts", target = "layouts", priority = 2 },
+      { source = "content", target = "content", priority = 2 }
+    ]
+
+  [[module.imports]]
+    # 사용자 정의 템플릿 경로, 우선순위가 더 높게 설정됨 (더 낮은 수치)
+    path = "github.com/your-repository/custom-templates"
+    disable = false
+    mounts = [
+      { source = "layouts", target = "layouts", priority = 1 },
+      { source = "content", target = "content", priority = 1 }
+    ]
