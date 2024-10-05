@@ -22,7 +22,7 @@ sections:
         align: center
         background:
           image:
-            filename: ment.jpg
+            filename: sky.jpg
             filters:
               brightness: 0.4
           position: center
@@ -39,7 +39,7 @@ sections:
         align: center
         background:
           image:
-            filename: Ai.jpg
+            filename: sky.jpg
             filters:
               brightness: 0.4
           position: center
@@ -50,7 +50,7 @@ sections:
         align: center
         background:
           image:
-            filename: healthcare.jpg
+            filename: sky.jpg
             filters:
               brightness: 0.4
           position: center
@@ -61,7 +61,7 @@ sections:
         align: center
         background:
           image:
-            filename: mathematics.jpg
+            filename: sky.jpg
             filters:
               brightness: 0.4
           position: center
@@ -108,7 +108,7 @@ sections:
         - name: spring 프레임워크(Spring Framework)
           icon: seedling
           icon_pack: fab
-          description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
+          description:  <span style="font-size:90%">인프런 사이트 인강을 통해 spring 프레임워크 기초를 학습 중.</span><br><br>
 
 
   - block: collection
