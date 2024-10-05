@@ -19,7 +19,6 @@ authors:
 
 # date format: '2013-07-01T00:00:00Z'
 date: '2024-10-01'
-doi: 'https://justjay.tistory.com/78'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-03-05'

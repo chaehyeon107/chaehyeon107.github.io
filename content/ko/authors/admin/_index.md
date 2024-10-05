@@ -66,20 +66,15 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
---- 
-{{ if eq .Title "김채현" }}
-  <!-- hero_and_skills.css 파일을 로드 -->
-  <link rel="stylesheet" href="{{ "css/hero_and_skills.css" | relURL }}">
-
-  <!-- hero.html 템플릿을 추가 -->
-  <div class="hero-section-wrapper">
-    {{ partial "views/hero.html" . }}
-  </div>
-{{ end }}
-
-<section class="content-section">
-  {{ .Content }}
-</section>
+sections:
+  - block: hero
+    content:
+      title: '김채현'
+      subtitle: '백엔드 개발자'
+      bio: |
+        안녕하세요. 본질에 집중하는 백엔드 개발자 김채현입니다. 끊임없는 학습과 탐구로 견고한 시스템을 설계하고, 문제 해결에 집중하는 과정에서 성장을 느낍니다.
+    design:
+      columns: '1'
 
 sections:
   - block: features
