@@ -65,6 +65,9 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+_build:
+  render: always
+
 techstack:
   - name: Backend
     items:

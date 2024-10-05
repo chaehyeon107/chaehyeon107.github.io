@@ -38,7 +38,7 @@ abstract: 대학생활계획서입니다. 1학년 때 1~4학년 각각의 목표
 # Summary. An optional shortened abstract.
 summary: 대학생활계획서입니다. 1학년 때 1~4학년 각각의 목표와 자기이해 내용을 담았습니다.
 
-tags: ['AI', 'medical', 'mobile', 'healthcare', 'classification', 'Q2']
+tags: ['전북대학교', '대학생활계획서', '계획']
 
 # Display this page in the Featured widget?
 featured: true

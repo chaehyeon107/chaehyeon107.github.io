@@ -8,7 +8,7 @@ main:
   #   url: /
   #   weight: 1
   - name: Profile
-    url: /author/김채현/
+    url: /author/김채현
     weight: 100
 
   - name: Project
@@ -20,7 +20,7 @@ main:
     weight: 300
   - parent: Plans
     name: futurity
-    url: futurity
+    url: publication
     weight: 310
   - parent: Plans
     name: interview
@@ -28,7 +28,7 @@ main:
     weight: 320
 
   - name: Research
-    url: publication
+    url: event
     weight: 400
     
   - name: Contact

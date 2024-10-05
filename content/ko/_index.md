@@ -32,7 +32,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">Profile</span>
           text-color: '#000'
-          url: authors/admin
+          url: author/김채현
 
       - title: <span style="font-size:70%">Project</span>
         content: <span style="font-size:70%">수행한 프로젝트를 확인합니다.<span style="font-size:70%">
@@ -52,6 +52,23 @@ sections:
           url: project
 
       - title: <span style="font-size:70%">Inform</span>
+        content: <span style="font-size:70%">인터뷰와 미래에 만들어질 프로젝트를 확인합니다.</span>
+        align: center
+        background:
+          image:
+            filename: sky.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Inform</span>
+          text-color: '#000'
+          url: 
+
+      - title: <span style="font-size:70%">Inform</span>
         content: <span style="font-size:70%">관심사와 목표 등 TMI를 확인합니다.</span>
         align: center
         background:
@@ -66,7 +83,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">Inform</span>
           text-color: '#000'
-          url: field
+          url: publication
 
       - title: <span style="font-size:70%">Contact</span>
         content: <span style="font-size:70%">연락할 수 있는 방안을 확인합니다.</span>

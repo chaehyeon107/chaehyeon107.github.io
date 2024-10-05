@@ -1,48 +1,52 @@
 ---
-title: 'Wide-field 3D Ultrasound Imaging Platform with a Semi-Automatic 3D Segmentation Algorithm for Quantitative Analysis of Rotator Cuff Tears'
+title: 전북대학교 맛집 앱웹 프로젝트
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 이문환
-  - 김준영
-  - 이경수
-  - 최창혁
-  - 황재윤
+  - 김채현
+  - 김은혜
 
 # Author notes (optional)
-author_notes:
-  - ''
-  - ''
-  - ''
-  - 'Corresponding author'
-  - ''
-  - 'Corresponding author'
+
 # {{equal}}
 
 # date format: '2013-07-01T00:00:00Z'
-date: '2020-04-06'
-doi: 'https://doi.org/10.1109/ACCESS.2020.2985858'
+date: '2020-10-01'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-04-06'
+publishDate: '2024-10-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['webpage']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE ACCESS
-publication_short: IEEE ACCESS (IEEE ACCESS)  [__SCI(E); IF=3.37, 34.25% (Q2)__]
 
-abstract: Rotator cuff tear (RCT) is a common injury that causes pain and disability in adults. The quantitative diagnosis of the RCT can be crucial in determining a treatment plan or monitoring treatment efficacy. Currently, only a few diagnosis tools, such as magnetic resonance imaging (MRI) and ultrasound imaging (US), are utilized for the diagnosis. Specifically, US exhibited comparable performance with MRI while offering a readily available diagnosis of RCTs at a lower cost. However, three-dimensional(3D) US and analysis of the regions are necessary to enable a better diagnosis of RCTs. Therefore, we developed a wide-field 3D US platform with a semi-automatic 3D image segmentation algorithm for 3D quantitative diagnosis of RCTs. The 3D US platform is built based on a conventional 2D US system and obtains 3D US images via linear scanning. With respect to 3D segmentation algorithm based on active contour model, frequency compounding and anisotropic diffusion methods were applied, and their effects on segmentation were discussed. The platform was used for clinical examination after evaluating the platform via the RCT-mimicking phantoms. As verified by the Dice coefficient(average DC- 0.663, volume DC- 0.723), which was approximately up to 50% higher than that obtained with conventional algorithms, the RCT regions segmented by the developed algorithm significantly matched the ground truth. The results indicated that the wide-field 3D US platform with the 3D segmentation algorithm can constitute a useful tool for improving the accuracy in the diagnosis of RCTs, and can eventually lead to better determination of treatment plans and surgical planning.
+
+abstract: 전북대학교 맛집 앱웹 프로젝트를 기획 중이다. 현재 팀원을 모집중에 있고 내 휴학이 확정된다면 팀원을 모아서 프로젝트를 진행할 예정이다. 프로젝트는 무조건 배포 및 운영할 계획
+- 컨셉 특성상 접근성 좋고 전북대 학생 대상이므로 수요가 많을 것으로 예상함 
+    -> 사용자의 이용 분석 및 유지보수를 경험할 수 있음
+
+- 취업 포트폴리오에 의미 있는 경험으로 쓰이는 것을 목적으로 함 
+- 빠른 시간 안에 대충 완성하는 것이 목적이 아니라 배움을 목적으로 함
+- 테스트 주도 개발 (TDD)등 현업 개발 프로세스를 따라 만드는 것을 지향함
+  
+  프로젝트 지향 요소 
+- 공유
+- 소통
+- 기록
+
+ 앱, 웹 둘다 구현을 목표로 한다.
+ 사유 : 웹은 웹 개발(특히 Spring) 경험을 쌓을 수 있고 앱은 사용성이 좋다는 각각의 장점이 있으며, 
+ REST API를 사용하고 적용시킬 수 있는 좋은 기회가 될 수 있을거라고 생각한다.
 
 # Summary. An optional shortened abstract.
-summary: ___SCI(E); IF=3.37, 34.25% (Q2)___ <br> _IEEE ACCESS (IEEE ACCESS, 2020, Vol. 8, Issue 1, pp. 65472-65487)_
+summary: 전북대학교 맛집 앱웹 프로젝트를 기획 중이다. 현재 팀원을 모집중에 있고 내 휴학이 확정된다면 팀원을 모아서 프로젝트를 진행할 예정이다.
 
-tags: ['AI', 'medical', 'ultrasound', 'segmentation', 'Q2']
+tags: ['전북대학교', '맛집', '프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
@@ -52,13 +56,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: '{{url_pdf}}'
-url_code: ''
+url_image: './featured.png'
 # url_dataset: '{{url_dataset}}'
 # url_poster: '{{url_poster}}'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://doi.org/10.1109/ACCESS.2020.2985858'
+# url_source: 'https://doi.org/10.1109/ACCESS.2020.2985858'
 # url_video: ''
 
 # Featured image
