@@ -35,19 +35,6 @@
     </div>
     
 
-    {{ if eq .Title "김채현" }}
-      <div class="hero-section-wrapper">
-        {{ partial "views/hero.html" . }}
-      </div>
-    {{ end }}
-
-    <section class="content-section">
-      {{ .Content }}
-    </section>
-
-    
-
-
     {{ if $item.Params.authors }}
     <div class="article-metadata">
         <div>
