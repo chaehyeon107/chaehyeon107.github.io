@@ -18,11 +18,11 @@ main:
   - name: Plans
     url: post
     weight: 300
-  - parent: Inform
+  - parent: Plans
     name: futurity
     url: notification
     weight: 310
-  - parent: Inform
+  - parent: Plans
     name: interview
     url: post
     weight: 320

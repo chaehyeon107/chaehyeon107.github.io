@@ -98,7 +98,7 @@ sections:
 
 
   - block: features
-    id: features
+    id: interest
     content:
       title: <span style="font-size:75%">채현's CODING Interests</span>
       text: 현재 진행하고 있는 공부 분야 및 개발 관심사를 소개합니다.<br><br><br><br>
