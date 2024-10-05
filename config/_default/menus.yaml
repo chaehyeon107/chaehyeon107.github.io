@@ -15,32 +15,22 @@ main:
     url: project
     weight: 200
 
-  - name: Inform
-    url: publication
+  - name: Plans
+    url: post
     weight: 300
-  - parent: Research
-    name: Publications
-    url: publication
-    weight: 310
-  - parent: Research
-    name: Research Fields
-    url: field
-    weight: 320
-    
-
-  - name: Inform
-    url: post
-    weight: 600
   - parent: Inform
-    name: Notifications
+    name: futurity
     url: notification
-    weight: 610
+    weight: 310
   - parent: Inform
-    name: News
+    name: interview
     url: post
-    weight: 620
+    weight: 320
 
-
+  - name: Research
+    url: publication
+    weight: 400
+    
   - name: Contact
     url: contact
-    weight: 700
+    weight: 500

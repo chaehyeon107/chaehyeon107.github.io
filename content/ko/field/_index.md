@@ -1,10 +1,10 @@
 ---
-title: Research Fields
+title: Projects
 
 # Listing view
-view: community/custom_card
+view: compact
 
-# Optional banner image (relative to `assets/media/` folder).
+# Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
