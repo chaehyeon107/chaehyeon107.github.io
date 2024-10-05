@@ -8,20 +8,12 @@ main:
   #   url: /
   #   weight: 1
   - name: Profile
-    url: about
+    url: /author/김채현/
     weight: 100
 
   - name: Project
     url: project
     weight: 200
-  - parent: 
-    name: Professor
-    url: /author/김채현/
-    weight: 210
-  - parent: People
-    name: Members
-    url: people
-    weight: 220
 
   - name: Inform
     url: publication
@@ -34,15 +26,7 @@ main:
     name: Research Fields
     url: field
     weight: 320
-
-  # - name: Projects
-  #   url: project
-  #   weight: 400
-
-
-  # - name: Coursework
-  #   url: publication
-  #   weight: 500
+    
 
   - name: Inform
     url: post
@@ -55,10 +39,6 @@ main:
     name: News
     url: post
     weight: 620
-  # - parent: Inform
-  #   name: Event
-  #   url: event
-  #   weight: 630
 
 
   - name: Contact
