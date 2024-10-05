@@ -30,7 +30,7 @@ interests:
   - API Design & Integration
   - Cloud Infrastructure
   - Development & Deploy
-  - Computer Vision
+  - Computer Vision1
 
 education:
   courses:
@@ -69,35 +69,6 @@ _build:
   render: always
   list: never
 
-techstack:
-  - name: Backend
-    items:
-      - name: Kotlin
-      - name: Java
-      - name: Spring Boot
-      - name: Spring
-      - name: Gradle
-  - name: DevOps
-    items:
-      - name: AWS - EC2
-      - name: MySQL
-      - name: Markdown
-  - name: Frontend
-    items:
-      - name: HTML
-      - name: CSS
-      - name: JS
-  - name: Tools & Collaboration
-    items:
-      - name: Git
-      - name: Jira
-      - name: Slack
-      - name: VS Code
-      - name: Intellij
-      - name: Pycharm
-      - name: Eclipse
-      - name: Android Studio
-       
 interest:
   - name: 알고리즘(Algorithm)
     description: |
@@ -129,4 +100,33 @@ interest:
       개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
     icon: globe
     icon_pack: fas
+
+techstack:
+  - name: Backend
+    items:
+      - name: Kotlin
+      - name: Java
+      - name: Spring Boot
+      - name: Spring
+      - name: Gradle
+  - name: DevOps
+    items:
+      - name: AWS - EC2
+      - name: MySQL
+      - name: Markdown
+  - name: Frontend
+    items:
+      - name: HTML
+      - name: CSS
+      - name: JS
+  - name: Tools & Collaboration
+    items:
+      - name: Git
+      - name: Jira
+      - name: Slack
+      - name: VS Code
+      - name: Intellij
+      - name: Pycharm
+      - name: Eclipse
+      - name: Android Studio
 ---

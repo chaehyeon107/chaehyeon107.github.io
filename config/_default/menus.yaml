@@ -8,7 +8,7 @@ main:
   #   url: /
   #   weight: 1
   - name: Profile
-    url: /author/김채현
+    url: /authors/admin
     weight: 100
 
   - name: Project
