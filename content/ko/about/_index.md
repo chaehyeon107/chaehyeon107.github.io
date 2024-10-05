@@ -1,15 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 김채현
+title: 
 date: 2024-10-01
 type: landing
 
 # Full Name (for SEO)
 first_name: Chaehyeon
 last_name: Kim
-
-authors:
-  - admin
 
 # Is this the primary user of the site?
 superuser: true
