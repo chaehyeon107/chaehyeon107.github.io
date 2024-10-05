@@ -66,31 +66,66 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-
-sections:
-
-  - block: features
-    content:
-      title: "스택"
-      items:
-        - name: "java"
-          icon: java
-          icon_pack: fas
-        - name: "python"
-          icon: python
-          icon_pack: fas
-        - name: "spring"
-          icon: seedling
-          icon_pack: fas
-        - name: "aws"
-          icon: aws
-          icon_pack: fas
-        - name: "android"
-          icon: android
-          icon_pack: fas
-        - name: "git"
-          icon: github
-          icon_pack: fas  
 ---
+<!-- layouts/partials/views/community/tech_stack.html -->
+<!-- Skills Section -->
+<section id="skills" class="skills-section">
+  <h2>SKILLS ABILITY</h2>
 
-끊임없는 학습과 탐구로 견고한 시스템을 설계하고, 문제 해결에 집중하는 과정에서 성장을 느낍니다. 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.
+  <!-- Language/Framework/Library -->
+  <div class="skills-category">
+    <h3>Language/Framework/Library</h3>
+    <h4>편해요</h4>
+    <div class="skill-icons">
+      <span class="skill">React.js</span>
+      <span class="skill">JavaScript(ES6+)</span>
+      <span class="skill">HTML5</span>
+      <span class="skill">SASS / CSS3</span>
+      <span class="skill">Git</span>
+      <span class="skill">Oracle / MySQL</span>
+      <span class="skill">jQuery</span>
+      <span class="skill">Bootstrap</span>
+    </div>
+    <h4>어느정도 사용할 수 있어요</h4>
+    <div class="skill-icons">
+      <span class="skill">C / C++</span>
+      <span class="skill">Java</span>
+      <span class="skill">Django</span>
+      <span class="skill">Python</span>
+      <span class="skill">JSP</span>
+      <span class="skill">Markdown</span>
+    </div>
+    <h4>사용해봤어요</h4>
+    <div class="skill-icons">
+      <span class="skill">React Native</span>
+      <span class="skill">Android(Kotlin)</span>
+      <span class="skill">Spring</span>
+    </div>
+  </div>
+
+  <!-- Tools/Analytics -->
+  <div class="skills-category">
+    <h3>Tools/Analytics</h3>
+    <h4>편해요</h4>
+    <div class="skill-icons">
+      <span class="skill">Amplitude</span>
+      <span class="skill">Redash</span>
+      <span class="skill">Google Analytics</span>
+      <span class="skill">Google Tag Manager</span>
+    </div>
+    <h4>어느정도 사용할 수 있어요</h4>
+    <div class="skill-icons">
+      <span class="skill">AWS - CloudFront</span>
+      <span class="skill">AWS - S3</span>
+      <span class="skill">Firebase - hosting</span>
+      <span class="skill">Sentry</span>
+      <span class="skill">Eclipse</span>
+    </div>
+    <h4>사용해봤어요</h4>
+    <div class="skill-icons">
+      <span class="skill">Hot Jar</span>
+      <span class="skill">Android Studio</span>
+      <span class="skill">PyCharm</span>
+    </div>
+  </div>
+</section>

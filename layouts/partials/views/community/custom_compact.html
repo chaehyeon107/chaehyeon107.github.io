@@ -45,6 +45,11 @@
     </a>
     {{ end }}
 
+
+        <!-- layouts/_default/list.html -->
+    {{ partial "views/community/tech-stack.html" . }}
+
+
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "event" }}
@@ -73,6 +78,7 @@
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
+    
 
     <div style="margin-bottom: 50px;"></div>
   </div>

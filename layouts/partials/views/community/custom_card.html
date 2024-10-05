@@ -34,9 +34,12 @@
         <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
     </div>
     
+    <!-- 기술 스택 표시 -->
+    {{ partial "views/community/tech-stack.html" . }}
 
+    <i class="fas fa-home"></i> <!-- Font Awesome의 'home' 아이콘 -->
+    
     {{ if $item.Params.authors }}
-    <i class="fas fa-home"></i>
     <div class="article-metadata">
         <div>
             {{ partial "page_metadata_authors" $item }}
