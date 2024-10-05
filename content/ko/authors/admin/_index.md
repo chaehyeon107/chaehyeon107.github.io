@@ -1,5 +1,4 @@
 ---
-# Display name
 title: 김채현
 
 # Full Name (for SEO)
@@ -120,3 +119,4 @@ sections:
           icon_pack: fas
           description: |
             개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
+---
