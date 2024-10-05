@@ -3,8 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MacsLAB # Website name
-baseURL: 'https://jbnu.macs.or.kr/' # Website URL
+title: chaehyeon PORTFOLIO # Website name
+baseURL: 'https://chaehyeon107.github.io/' # Website URL
+
+
+
+
+
+
 
 ############################
 ## LANGUAGE

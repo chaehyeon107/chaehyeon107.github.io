@@ -7,11 +7,11 @@ main:
   # - name: Home
   #   url: /
   #   weight: 1
-  - name: About
+  - name: Profile
     url: about
     weight: 100
 
-  - name: People
+  - name: Project
     url: people
     weight: 200
   - parent: People
@@ -23,7 +23,7 @@ main:
     url: people
     weight: 220
 
-  - name: Research
+  - name: Inform
     url: publication
     weight: 300
   - parent: Research
@@ -55,10 +55,10 @@ main:
     name: News
     url: post
     weight: 620
-  - parent: Inform
-    name: Event
-    url: event
-    weight: 630
+  # - parent: Inform
+  #   name: Event
+  #   url: event
+  #   weight: 630
 
 
   - name: Contact

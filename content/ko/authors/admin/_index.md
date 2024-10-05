@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 이경수
+title: 김채현
 
 # Full Name (for SEO)
-first_name: Kyungsu
-last_name: Lee
+first_name: Chaehyeon
+last_name: Kim
 
 # Username (this should match the folder name)
 authors:
@@ -14,32 +14,30 @@ authors:
 superuser: true
 
 # Role/position
-role: 조교수
+role: 백엔드 개발자
 
 # Organizations/Affiliations
 organizations:
   - name: 전북대학교 컴퓨터인공지능학부
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
+  
 
 # Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+bio: 안녕하세요. 본질에 집중하는 백엔드 개발자 김채현입니다. 끊임없는 학습과 탐구로 견고한 시스템을 설계하고, 문제 해결에 집중하는 과정에서 성장을 느낍니다. 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.
+
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
+  - Web Services
+  - API Design & Integration
+  - Cloud Infrastructure
+  - Development & Deploy
+  - Computer Vision
 
 education:
   courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
+    - course: B.S. in (컴퓨터공학부)
+      institution: 전북대학교
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +46,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ksl@jbnu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
-  - icon: cv
-    icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+    link: 'mailto:esther107@jbnu.ac.kr'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/chaehyeon107
+  - icon: brands/x
+    url: https://x.com/107daydreaming
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ksl@jbnu.ac.kr'
+email: 'esther107@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -75,7 +69,28 @@ highlight_name: true
 user_groups:
   - admin
 
-
+  - block: features
+    content:
+      title: "스택"
+      items:
+        - name: "java"
+          icon: java
+          icon_pack: fas
+        - name: "python"
+          icon: python
+          icon_pack: fas
+        - name: "spring"
+          icon: seedling
+          icon_pack: fas
+        - name: "aws"
+          icon: aws
+          icon_pack: fas
+        - name: "android"
+          icon: android
+          icon_pack: fas
+        - name: "git"
+          icon: github
+          icon_pack: fas  
 ---
 
-Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications이라는 제목의 논문으로 2023년 대구경북과학기술원에서 통합 석사 및 박사 학위를 받았습니다. 2024년에 전북대학교 컴퓨터인공지능학부에 조교수 position으로 임명받고 현재까지 근무하고 있습니다. 연구 분야는 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리를 포함하고 있으며, AI의 이론부터 다양한 특성화 분야의 어플리케이션까지 넓은 범위를 포함하고 있습니다. 
+끊임없는 학습과 탐구로 견고한 시스템을 설계하고, 문제 해결에 집중하는 과정에서 성장을 느낍니다. 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.
