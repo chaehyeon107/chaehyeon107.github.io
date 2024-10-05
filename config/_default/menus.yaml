@@ -8,7 +8,7 @@ main:
   #   url: /
   #   weight: 1
   - name: Profile
-    url: /author/admin/
+    url: about
     weight: 100
 
   - name: Project
