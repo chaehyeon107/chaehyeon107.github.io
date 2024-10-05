@@ -8,13 +8,13 @@ main:
   #   url: /
   #   weight: 1
   - name: Profile
-    url: about
+    url: /author/admin/
     weight: 100
 
   - name: Project
-    url: people
+    url: project
     weight: 200
-  - parent: People
+  - parent: 
     name: Professor
     url: /author/김채현/
     weight: 210

@@ -30,9 +30,9 @@ sections:
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">Profile</span>
           text-color: '#000'
-          url: contact
+          url: 
 
       - title: <span style="font-size:70%">Project</span>
         content: <span style="font-size:70%">수행한 프로젝트를 확인합니다.<span style="font-size:70%">
@@ -44,6 +44,12 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Project</span>
+          text-color: '#000'
+          url: project
 
       - title: <span style="font-size:70%">Inform</span>
         content: <span style="font-size:70%">관심사와 목표 등 TMI를 확인합니다.</span>
@@ -55,6 +61,12 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Join Us</span>
+          text-color: '#000'
+          url: 
 
       - title: <span style="font-size:70%">Contact</span>
         content: <span style="font-size:70%">연락할 수 있는 방안을 확인합니다.</span>
@@ -66,6 +78,12 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Join Us</span>
+          text-color: '#000'
+          url: contact
 
 
     design:
@@ -107,7 +125,7 @@ sections:
           description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발. 현재 전북대학교 맛집 웹앱 프로젝트를 계획 중.</span><br><br>
         - name: spring 프레임워크(Spring Framework)
           icon: seedling
-          icon_pack: fab
+          icon_pack: fas
           description:  <span style="font-size:90%">인프런 사이트 인강을 통해 spring 프레임워크 기초를 학습 중.</span><br><br>
 
 
