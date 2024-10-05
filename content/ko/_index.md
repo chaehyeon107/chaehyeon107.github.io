@@ -66,9 +66,9 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">Inform</span>
           text-color: '#000'
-          url: 
+          url: futurity
 
-      - title: <span style="font-size:70%">Inform</span>
+      - title: <span style="font-size:70%">Information</span>
         content: <span style="font-size:70%">관심사와 목표 등 TMI를 확인합니다.</span>
         align: center
         background:
@@ -83,7 +83,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">Inform</span>
           text-color: '#000'
-          url: publication
+          url: event
 
       - title: <span style="font-size:70%">Contact</span>
         content: <span style="font-size:70%">연락할 수 있는 방안을 확인합니다.</span>
@@ -190,7 +190,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+        {{% cta cta_link="./contact/" cta_text="Contact me →" %}}
     design:
       columns: '1'
 ---

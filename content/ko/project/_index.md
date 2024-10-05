@@ -1,5 +1,5 @@
 ---
-title: Research Fields
+title: project
 
 # Listing view
 view: community/custom_card

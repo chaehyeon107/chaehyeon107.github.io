@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: futurity
 
 # Listing view
 view: community/custom_compact

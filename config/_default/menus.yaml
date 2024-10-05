@@ -27,7 +27,7 @@ main:
     url: interview
     weight: 320
 
-  - name: Research
+  - name: Information
     url: event
     weight: 400
     

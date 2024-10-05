@@ -67,6 +67,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 _build:
   render: always
+  list: never
 
 techstack:
   - name: Backend
