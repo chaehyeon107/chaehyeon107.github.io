@@ -28,8 +28,6 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<i class="fas fa-home"></i>
-
 <div class="media stream-item view-compact">
   <div class="media-body">
 
@@ -44,11 +42,6 @@
       </div>
     </a>
     {{ end }}
-
-
-        <!-- layouts/_default/list.html -->
-    {{ partial "views/community/tech-stack.html" . }}
-
 
     <div class="stream-meta article-metadata">
 
@@ -78,7 +71,6 @@
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
-    
 
     <div style="margin-bottom: 50px;"></div>
   </div>

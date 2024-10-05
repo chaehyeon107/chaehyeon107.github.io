@@ -1,0 +1,26 @@
+/* static/css/main.css */
+.skills-section {
+    padding: 20px;
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .skills-category {
+    margin-bottom: 40px;
+  }
+  
+  .skill-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .skill {
+    background-color: #f0e68c;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+  }
+  
