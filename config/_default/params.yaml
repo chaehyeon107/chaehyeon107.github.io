@@ -21,12 +21,12 @@ marketing:
     twitter: 'GetResearchDev'
     keywords: ["김채현", "ChaeHyeon Kim", '전북대','JBNU', "CSAI", "컴퓨터공학", "전북대학교"]
   analytics:
-    google_analytics: "cVnANf82DzwiNZBxf9EBrjVsyWtw6Ch8XxlHVyRJLoE"
+    google_analytics: ""
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'cVnANf82DzwiNZBxf9EBrjVsyWtw6Ch8XxlHVyRJLoE'
     baidu: ''
 
 # Site header
@@ -40,6 +40,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    logo:
+      filename: "logo.png"
 
 # Site footer
 
@@ -116,3 +118,5 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+ogImage: "assets/media/toplogo.png"
