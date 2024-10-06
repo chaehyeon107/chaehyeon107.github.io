@@ -1,7 +1,7 @@
 ---
-title: Q. 자기개발을 위해 어떤 것들을 해왔는지?
+title: Q. What have you done for self-development?
 date: 2024-10-01
 ---
 
-지속적인 학습을 위해 스터디와 온라인 강의에 적극 참여하고, 낯선 기술에도 포기 하지 않고 메타인지 방식을 활용해 문제 해결 능력을 쌓고 있습니다.
-열린 마음으로 피드백을 소중히 여기고, 개발 과정에서 항상 개선할 점을 찾기 위해 노력하고 있습니다.
+For continuous learning, I actively participate in studies and online lectures, and without giving up on unfamiliar technologies, I use metacognitive methods to build problem-solving skills.
+We value feedback with an open mind, and are always striving to find areas for improvement during the development process.

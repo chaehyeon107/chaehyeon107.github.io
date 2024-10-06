@@ -3,24 +3,24 @@ title: 전북대학교 맛집 앱웹 프로젝트
 date: 2024-10-01
 ---
 
-전북대학교 맛집 앱웹 프로젝트를 기획 중이다. 현재 팀원을 모집중에 있고 내 휴학이 확정된다면 팀원을 모아서 프로젝트를 진행할 예정이다.
 
+We are planning a restaurant app web project at Jeonbuk National University. We are currently recruiting team members, and if my leave of absence is confirmed, I plan to gather team members and work on the project.
 
 <!--more-->
 
-프로젝트는 무조건 배포 및 운영할 계획
-- 컨셉 특성상 접근성 좋고 전북대 학생 대상이므로 수요가 많을 것으로 예상함 
-    -> 사용자의 이용 분석 및 유지보수를 경험할 수 있음
+The project is planned to be distributed and operated unconditionally.
+- Due to the nature of the concept, it is highly accessible and targeted at Chonbuk National University students, so it is expected to be in high demand. 
+    -> Experience user usage analysis and maintenance
 
-- 취업 포트폴리오에 의미 있는 경험으로 쓰이는 것을 목적으로 함 
-- 빠른 시간 안에 대충 완성하는 것이 목적이 아니라 배움을 목적으로 함
-- 테스트 주도 개발 (TDD)등 현업 개발 프로세스를 따라 만드는 것을 지향함
+- The purpose is to use it as a meaningful experience in an employment portfolio. 
+- The purpose is not to complete the work in a short time, but to learn.
+- Aims to follow field development processes such as test-driven development (TDD)
 
-프로젝트 지향 요소 
-- 공유
-- 소통
-- 기록
+Project-Oriented Elements 
+- share
+- Communication
+- record
 
-앱, 웹 둘다 구현을 목표로 한다.
-사유 : 웹은 웹 개발(특히 Spring) 경험을 쌓을 수 있고 앱은 사용성이 좋다는 각각의 장점이 있으며, 
-REST API를 사용하고 적용시킬 수 있는 좋은 기회가 될 수 있을거라고 생각한다.
+The goal is to implement both apps and web.
+Reason: The web allows you to gain experience in web development (especially Spring), and the app has its own advantages, such as good usability. 
+I think this could be a good opportunity to use and apply REST API.

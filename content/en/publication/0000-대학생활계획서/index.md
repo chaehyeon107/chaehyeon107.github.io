@@ -1,5 +1,5 @@
 ---
-title: 대학생활계획서
+title: College life plan
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,11 +32,10 @@ publication_types: ['webpage']
 # publication: Journal of Biophotonics
 # publication_short: Journal of Biophotonics (Journal of Biophotonics)  [__SCI(E); IF=3.21, 28.79% (Q2)__]
 
-abstract: 대학생활계획서입니다. 1학년 때 1~4학년 각각의 목표와 자기이해 내용을 담았습니다.
-
+abstract:  This is a college life plan. In the first year, it contains goals and self-understanding for each grade 1 to 4.
 
 # Summary. An optional shortened abstract.
-summary: 대학생활계획서입니다. 1학년 때 1~4학년 각각의 목표와 자기이해 내용을 담았습니다.
+summary: This is a college life plan. In the first year, it contains goals and self-understanding for each grade 1 to 4..
 
 tags: ['전북대학교', '대학생활계획서', '계획']
 

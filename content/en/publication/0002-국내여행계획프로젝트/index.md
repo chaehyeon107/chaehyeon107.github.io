@@ -1,5 +1,5 @@
 ---
-title: 국내 여행계획 프로젝트
+title: Domestic travel planning project
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,11 +27,10 @@ publication_types: ['website']
 # publication: Biomedical Optics Express
 # publication_short: Biomedical Optics Express (BOE)  [__SCI(E); IF=3.73, 22.73% (Q1)__]
 
-abstract: 맛집과 여행코스 추천 등 국내 여행계획을 짤 때 도움이 될만한 앱웹을 만들 예정이다. 개인 토이프로젝트로 진행할 예정이다. 시간과 경로 계산 및 기록 어플 컨셉으로 기획 단계에 있다.
+abstract: We plan to create an app web that will be helpful in planning domestic travel, including recommendations for restaurants and travel courses. It will be carried out as a personal toy project. The concept of a time and route calculation and recording application is in the planning stage.
 
 # Summary. An optional shortened abstract.
-summary: 맛집과 여행코스 추천 등 국내 여행계획을 짤 때 도움이 될만한 앱웹을 만들 예정이다. 개인 토이프로젝트로 진행할 예정이다. 
-
+summary: We plan to create an app web that will be helpful in planning domestic travel, including recommendations for restaurants and travel courses. It will be carried out as a personal toy project.
 
 tags: ['토이프로젝트', '프로젝트', '여행', '계획']
 

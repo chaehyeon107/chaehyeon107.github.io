@@ -41,8 +41,8 @@ sections:
     content:
       title: "Education"
       courses:
-        - course: B.S. in (컴퓨터공학부)
-          institution: 전북대학교
+        - course: B.S. in Computer Science and Engineering
+          institution: Jeonbuk National University
           year: 2022 - 2026
 
   - block: social
@@ -79,32 +79,32 @@ sections:
       items:
         - name: Algorithm
           description: |
-            전북대학교 컴퓨터인공지능학부 알고리즘 동아리 ALPS 소속으로 백준 사이트에서 **알고리즘 학습 진행**.
+            As a member of the ALPS algorithm club at the Department of Computer and Artificial Intelligence at Jeonbuk National University, I am **learning algorithms** through the Baekjoon platform.
           icon: code-branch
           icon_pack: fas
         - name: Spring Framework
           description: |
-            인프런 사이트 인강을 통해 **spring 프레임워크 기초**를 학습 중.
+            I am currently studying the **basics of the Spring framework** through online courses on Inflearn.
           icon: seedling
           icon_pack: fas
         - name: Cloud Computing
           description: |
-            인프라 관리 및 서비스 배포 등 클라우드 컴퓨팅에 관한 지식을 탐구 중. **aws 관련 자격증 취득 공부**를 목표로 함.
+            I am exploring cloud computing, focusing on infrastructure management and service deployment, with the goal of obtaining **an AWS-related certification**.
           icon: calculator
           icon_pack: fas
         - name: Data Architecture
           description: |
-            추후 진행할 전북대학교 맛집 프로젝트의 데이터 아키텍쳐 설계를 목표로 함. 목표를 달성하기 위한 첫 걸음으로 현재 **sqld 자격증 공부** 진행 중.
+            I am also working towards designing the data architecture for the upcoming Jeonbuk University Restaurant Project. As the first step toward achieving this goal, I am studying for the **SQLD certification**.
           icon: chart-line
           icon_pack: fas
         - name: Development
           description: |
-            Full-Stack 기반의 응용 어플리케이션 개발. 현재 **전북대학교 맛집 웹앱 프로젝트**를 계획 중.
+            I am planning a full-stack web application development project, specifically a web app for **the best restaurants at Jeonbuk University**.
           icon: laptop
           icon_pack: fas
         - name: English conversation
           description: |
-            개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
+            To enhance my skills as a developer, I am also studying **conversational English** to improve fluency.
           icon: globe
           icon_pack: fas
     design:

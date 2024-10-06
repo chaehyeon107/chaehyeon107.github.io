@@ -3,20 +3,19 @@ title: 초록공룡 슈팅게임 JAVA프로젝트
 date: 2024-03-31
 ---
 
-대중적인 캐릭터를 이용한 슈팅게임을 만들며 자바 GUI 학습을 진행한 프로젝트이다. 
-프로젝트명은 '최후의 초록 공룡은 누구인가'이며 세 마리의 초록 공룡 캐릭터 요시, 둘리, 크롱으로 슈팅게임을 진행한다. 
-순수 JAVA만으로 구성되며 많은 객체, 요소들을 결합하여 프로세스, 스레드의 흐름을 이해해볼 수 있는 게임을 만들 수 있음에 의의를 두었다.
-이 프로젝트를 기획한 이유는 자바 문법을 기반으로 프로그래밍하여 자바 동작에 대한 이해를 높이기 위함이다. 또한, 자바 학습에 적합한 난이도를 가진 게임이기 때문에 이를 기획하게 되었다.
-
+This is a project that involved learning Java GUI while creating a shooting game using popular characters. 
+The project name is ‘Who is the Last Green Dinosaur?’ and it is a shooting game with three green dinosaur characters: Yoshi, Dooly, and Crong. 
+It is made up of pure JAVA and is meaningful in that it can be used to create a game that can understand the flow of processes and threads by combining many objects and elements.
+The reason for planning this project is to improve understanding of Java operations by programming based on Java grammar. In addition, we planned this game because it is a game with a level of difficulty suitable for learning Java.
 <!--more-->
 
-게임 방법은 3마리의 초록 공룡이 게임 내부에서 운석을 피하고, 마지막으로 남은 공룡이 승리하는 방식이다.
-게임 요소로 요시, 둘리, 크롱, HP, 운석(맞으면 HP차감), 별(맞으면 HP증가)로 6개의 객체가 존재한다.
-각 캐릭터 객체는 움직임 함수와 기본 위치, 이미지 등을 저장하고 있다. 모든 객체들의 관계가 스레드로 동작하며 게임을 진행하는 방식으로 구성되어 있다.
+The game method is that three green dinosaurs avoid meteorites within the game, and the last remaining dinosaur wins.
+There are six game elements: Yoshi, Dooly, Crong, HP, meteorite (HP is deducted when hit), and star (HP is increased when hit).
+Each character object stores movement functions, basic positions, images, etc. The relationship between all objects operates as a thread and is structured in such a way that the game progresses/
 
 깃허브 주소 : https://github.com/kmtaegyu/green_dinosaur_java
 
 <video width="844" height="540" controls>
   <source src="./greendinosaur.mp4" type="video/mp4">
-  동영상 재생을 지원하지 않는 브라우저입니다.
+    This browser does not support video playback.
 </video>

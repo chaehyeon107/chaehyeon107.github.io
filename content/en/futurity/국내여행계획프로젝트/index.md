@@ -3,8 +3,9 @@ title: 국내 여행계획 프로젝트
 date: 2024-10-01
 ---
 
-맛집과 여행코스 추천 등 국내 여행계획을 짤 때 도움이 될만한 앱웹을 만들 예정이다. 개인 토이프로젝트로 진행할 예정이다. 
+
+We plan to create an app web that will be helpful in planning domestic travel, including recommendations for restaurants and travel courses. It will be carried out as a personal toy project.
 
 <!--more-->
 
-시간과 경로 계산 및 기록 어플 컨셉으로 기획 단계에 있다.
+It is a time and route calculation and recording application concept and is in the planning stage.

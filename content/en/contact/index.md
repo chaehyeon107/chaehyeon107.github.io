@@ -9,15 +9,15 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">저에게 연락주시고 싶으신 분은 아래 정보를 참고해주세요.</span> <br>
+        <br> <span style="font-size:95%">If you would like to contact me, please refer to the information below.</span> <br>
       email: esther107(at)jbnu.ac.kr
       phone: +82-63-251-2231
       address:
-        street: 전북대학교 공과대학 7호관
-        city: 전주시
-        region: 전라북도
+        street: Jeonbuk National University College of Engineering Building No. 7
+        city: Jeonju-si
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: Koreax
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
