@@ -5,12 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
 
-  {{ if eq .Title "김채현" }}
-    <!-- hero_and_skills.css 파일을 로드 -->
-    <link rel="stylesheet" href="{{ "css/hero_and_skills.css" | relURL }}">
-  {{ end }}
-</head>
-<body>
   
   {{ if eq .Title "김채현" }}
     <div class="hero-section-wrapper">
