@@ -23,7 +23,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-text: |
+bio: |
   <span class="block-text"> 안녕하세요. 본질에 집중하는 백엔드 개발자 김채현입니다. 끊임없는 학습과 탐구로 견고한 시스템을 설계하고, 문제 해결에 집중하는 과정에서 성장을 느낍니다. 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.</span>
 
 interests:

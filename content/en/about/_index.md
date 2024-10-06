@@ -57,7 +57,7 @@ sections:
           description:  <span style="font-size:90%">To enhance my skills as a developer, I am also studying conversational English to improve fluency.</span><br><br>
 
     design:
-      columns: 2
+      columns: 1
       
   - block: techstack
     content:
