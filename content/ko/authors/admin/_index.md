@@ -48,15 +48,6 @@ social:
     link: https://github.com/chaehyeon107
   - icon: brands/x
     url: https://x.com/107daydreaming
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-
-# Highlight the author in author lists? (true/false)
 
 interesting:
   - name: |
@@ -130,6 +121,13 @@ techstack:
       - name: Pycharm
       - name: Eclipse
       - name: Android Studio
+
+profiles:
+  - icon: github
+    url: https://github.com/chaehyeon107
+    label: github
+
+highlight_name: true
 
 user_groups:
   - admin

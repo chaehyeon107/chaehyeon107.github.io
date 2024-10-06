@@ -11,9 +11,7 @@ sections:
       title: <span style="font-size:70%">ChaeHyeon PORTFOLIO</span>
       text: <br><span style="font-size:125%">안녕하세요. 본질에 집중하는 백엔드 개발자 김채현입니다.<br><br>현재 전북대학교 컴퓨터공학부에 재학 중입니다. 다양한 프로젝트와 학습을 통해 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.</span>
     
-        <div class="cta-btn-wrapper">
-          <a href="./project/" class="cta-btn">project 보러가기 →</a>
-        </div>
+        {{% cta cta_btn="./project/" cta_text="project 보러가기 →" %}}
 
   - block: slider
     content:

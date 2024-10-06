@@ -46,4 +46,4 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   homepage = "https://georgecushen.com"
 
 [params]
-  logo = "images/logo.png"
+  logo = "assets\images\logo.png"

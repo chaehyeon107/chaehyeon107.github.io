@@ -31,3 +31,8 @@
 .cta-btn-wrapper {
     text-align: center; /* Center align the button */
 }
+
+.logo {
+    max-width: 300px;
+    height: auto;
+}
