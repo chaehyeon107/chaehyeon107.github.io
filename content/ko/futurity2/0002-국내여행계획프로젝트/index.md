@@ -48,7 +48,7 @@ featured: true
 # url_poster: '{{url_poster}}'
 # url_project: ''
 # url_slides: ''
-url_image: './featured.png'
+url_image: './featured.jpg'
 # url_video: ''
 
 # Featured image

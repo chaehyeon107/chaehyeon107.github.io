@@ -5,33 +5,30 @@ date: 2024-03-29
 
 인스타를 클론한 다이어리 앱을 만들며 안드로이드 앱 개발을 진행한 프로젝트이다.
 프로젝트명은 '스토리그램(Storygram)'으며 다이어리 형식을 인스타그램으로 설정하였다. 
+
 취지 : 어쩌면 모두에게 필요한 것은 자신만의 스토리이다. (나만의 기록을 남기고 싶지만 공유하고 싶지 않을 나의 이야기를 모두 남길 수 있는 공간) 나의 일상을 기록하는 것으로 얻는 나만의 이야기
+
 컨셉 : 일상을 기록할 나만의 기록용 다이어리 (인스타보다는 다이어리 강조)
+
 다이어리 형식을 인스타그램으로 한 이유 : 다이어리 형식에서 인스타그램의 게시물 형식을 차용하여 세련된 이미지를 가질 수 있고 인스타에 게시물을 올리는 것처럼 친숙하고 접근성 있게 올릴 수 있는 효과가 기대됨
+
 프로젝트 이름 선정 이유 : 형식을 차용한 인스타그램의 ‘그램’을 땄다. 
 이름 후보로 다이어리그램과 스토리그램이 있었다. 일상을 기록하는 다이어리라는 컨셉인만큼 이름 키워드를 다이어리로 해도 되었지만 우리 프로젝트가 추구하는 바는 자신의 스토리를 기록하면서 나만의 이야기를 쌓고 추억하며 스토리를 만들어가는 것이므로 스토리를 키워드로 하여 스토리그램으로 정하게 되었다 
+
 리마인더 기능 장점 : 기록 다이어리의 묘미 중 하나는 나중에 꺼내 볼 때 추억하는 것이다. 리마인더 기능을 넣어서 내가 쓴 스토리를 상기시키고 인스타그램과는 다른 차별점을 주는 기능이 될 것 같다.
+
+<!--more-->
+
 프로젝트 기능 :  
--	리마인더
--	할일목록 관리
--	일상기록
+1. 리마인더
+2. 일목록 관리
+3. 일상기록
 
 
-깃허브 주소 : https://github.com/chaehyeon107/Storygram (내코드만 있음) https://github.com/mobprogrammingteam8/Storygram.v12.16 (전체 코드는 private설정됨)
+깃허브 주소 : https://github.com/chaehyeon107/Storygram (내코드만 있음) 
+https://github.com/mobprogrammingteam8/Storygram.v12.16 (전체 코드는 private설정됨)
 
 <video width="606" height="1331" controls>
   <source src="./storygram.mp4" type="video/mp4">
   동영상 재생을 지원하지 않는 브라우저입니다.
 </video>
-<!--more-->
-
-__사용되는 주요 기술__
-
-- 의료 영상 분석 (Medical Image Analysis)
-- 생체 신호 처리 (Biosignal Processing)
-- 질병 예측 모델 (Disease Prediction Models)
-- 딥러닝 기반 진단 (Deep Learning-based Diagnosis)
-- 유전 알고리즘 (Genetic Algorithms)
-- 피부암 분류 (Skin Cancer Classification)
-- 자동화된 의료 기록 분석 (Automated Medical Record Analysis)
-3- D 이미징 및 모델링 (3D Imaging and Modeling)

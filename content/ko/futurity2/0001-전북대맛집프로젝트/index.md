@@ -57,7 +57,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_image: './featured.png'
+url_image: './featured.jpg'
 # url_dataset: '{{url_dataset}}'
 # url_poster: '{{url_poster}}'
 # url_project: ''
