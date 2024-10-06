@@ -9,7 +9,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%">ChaeHyeon PORTFOLIO</span>
-      text: <br><span style="font-size:125%">안녕하세요. 본질에 집중하는 백엔드 개발자 김채현입니다.<br><br>현재 전북대학교 컴퓨터공학부에 재학 중입니다. 다양한 프로젝트와 학습을 통해 새로운 기술을 두려워하지 않고, 본질에 충실한 개발을 통해 가치 있는 솔루션을 만들어가는 것이 제 목표입니다. 잔잔하지만 깊이 있는 물처럼, 차분하면서도 깊이 있는 지식과 경험을 바탕으로 실질적인 가치를 더할 수 있는 개발자가 되겠습니다.</span>
+      text: <br><span style="font-size:125%">Hello, I’m Chaehyeon Kim, a backend developer focused on the essentials. I thrive on continuous learning and exploration, designing robust systems while growing through problem-solving. I embrace new technologies without fear and aim to create valuable solutions by staying true to the core principles of development. Like calm but deep waters, I aspire to be a developer who adds real value with a calm demeanor and deep knowledge and experience.</span>
     
         <a href="./project/" class="cta-btn">project 보러가기 →</a>
         </div>
@@ -127,43 +127,43 @@ sections:
             (Algorithm)
           icon: code-branch
           icon_pack: fas
-          description: <span style="font-size:90%">전북대학교 컴퓨터인공지능학부 알고리즘 동아리 ALPS 소속으로 백준 사이트에서 알고리즘 학습 진행.</span><br><br>
+          description: <span style="font-size:90%">As a member of the ALPS algorithm club at the Department of Computer and Artificial Intelligence at Jeonbuk National University, I am learning algorithms through the Baekjoon platform.</span><br><br>
         - name: |
             spring 프레임워크 
             (Spring Framework)
           icon: seedling
           icon_pack: fas
-          description:  <span style="font-size:90%">인프런 사이트 인강을 통해 spring 프레임워크 기초를 학습 중.</span><br><br>
+          description:  <span style="font-size:90%">I am currently studying the basics of the Spring framework through online courses on Inflearn.</span><br><br>
         - name: |
             클라우드 컴퓨팅
             (Cloud Computing)
           icon: calculator
           icon_pack: fas
-          description:  <span style="font-size:90%">인프라 관리 및 서비스 배포 등 클라우드 컴퓨팅에 관한 지식을 탐구 중. aws 관련 자격증 취득 공부를 목표로 함.</span><br><br>
+          description:  <span style="font-size:90%">I am exploring cloud computing, focusing on infrastructure management and service deployment, with the goal of obtaining an AWS-related certification.</span><br><br>
         - name: |
             데이터 아키텍쳐 설계
             (Data Architecture)
           icon: chart-line
           icon_pack: fas
-          description:  <span style="font-size:90%">추후 진행할 전북대학교 맛집 프로젝트의 데이터 아키텍쳐 설계를 목표로 함. 목표를 달성하기 위한 첫 걸음으로 현재 sqld 자격증 공부 진행 중.</span><br><br>
+          description:  <span style="font-size:90%">I am also working towards designing the data architecture for the upcoming Jeonbuk University Restaurant Project. As the first step toward achieving this goal, I am studying for the SQLD certification.</span><br><br>
         - name: |
            개발
            (Development)
           icon: laptop
           icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발. 현재 전북대학교 맛집 웹앱 프로젝트를 계획 중.</span><br><br>
+          description:  <span style="font-size:90%">I am planning a full-stack web application development project, specifically a web app for the best restaurants at Jeonbuk University.</span><br><br>
         - name: |
             영어회화
             (Multi-modality)
           icon: globe
           icon_pack: fas
-          description:  <span style="font-size:90%">개발자의 덕목인 영어를 자유롭게 구사하기 위해 회화 공부 진행.</span><br><br>
+          description:  <span style="font-size:90%">To enhance my skills as a developer, I am also studying conversational English to improve fluency.</span><br><br>
 
 
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: TMI
       subtitle:
       text:
       count: 3

@@ -13,11 +13,11 @@ main:
     weight: 200
 
   - name: Plans
-    url: futurity
+    url: futurity2
     weight: 300
   - parent: Plans
     name: futurity
-    url: futurity
+    url: futurity2
     weight: 310
   - parent: Plans
     name: interview
