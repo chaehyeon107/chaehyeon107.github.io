@@ -35,12 +35,20 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
+
+
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
     </a>
+    {{ end }}
+
+    {{ if $item.Params.youtube_link }}
+      <div class="youtube-video">
+        <iframe width="560" height="315" src="{{ $item.Params.youtube_link | safeURL }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     {{ end }}
 
     <div class="stream-meta article-metadata">

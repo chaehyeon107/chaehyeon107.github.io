@@ -8,3 +8,7 @@ body {
     display: block;
   }
   
+  .youtube-video {
+    margin: 20px 0;
+    text-align: center;
+  }
