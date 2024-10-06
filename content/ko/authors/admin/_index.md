@@ -114,7 +114,7 @@ sections:
           icon_pack: fas
         - name: |
             영어회화
-            (Multi-modality)
+            (English conversation)
           description: |
             개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
           icon: globe

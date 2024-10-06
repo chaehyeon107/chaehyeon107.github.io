@@ -17,6 +17,18 @@
       {{ partial "views/hero.html" . }}
     </div>
   {{ end }}
+
+  {{ range .Params.sections }}
+    {{ if eq .block "interest" }}
+        {{ partial "blocks/interest.html" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ range .Params.sections }}
+    {{ if eq .block "tech_stack" }}
+        {{ partial "blocks/tech_stack.html" . }}
+    {{ end }}
+  {{ end }}
   
   <section class="content-section">
     {{ .Content }}
