@@ -4,25 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
-
-  
-  <!-- {{ if eq .Title "김채현" }}
-    <div class="hero-section-wrapper">
-      {{ partial "views/hero.html" . }}
-    </div>
-  {{ end }} -->
-
-  {{ range .Params.sections }}
-    {{ if eq .block "interest" }}
-        {{ partial "blocks/interesting.html" . }}
-    {{ end }}
-  {{ end }}
-
-  {{ range .Params.sections }}
-    {{ if eq .block "tech_stack" }}
-        {{ partial "blocks/tech_stack.html" . }}
-    {{ end }}
-  {{ end }}
   
   <section class="content-section">
     {{ .Content }}

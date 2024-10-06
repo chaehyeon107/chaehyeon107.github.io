@@ -19,7 +19,7 @@ marketing:
     org_name: 'chaehyeon107'
     description: 'chaehyeon backend developer portfolio'
     twitter: 'GetResearchDev'
-    keywords: ["김채현", "ChaeHyeon Kim", '전북대','JBNU', "CSAI", "컴퓨터공학", "전북대학교"]
+    keywords: ["김채현", '전북대', "ChaeHyeon Kim",'JBNU', "CSAI", "컴퓨터공학", "전북대학교"]
   analytics:
     google_analytics: ""
     baidu_tongji: ''
