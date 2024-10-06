@@ -37,9 +37,9 @@ interests:
 
 education:
   courses:
-    - course: B.S. in Computer Science and Engineering
-          institution: Jeonbuk National University
-          year: 2022 - 2026
+    - course: B.S. in Computer Science and Engineering 
+      institution: Jeonbuk National University
+      year: 2022 - 2026
 
 social:
   - icon: envelope
