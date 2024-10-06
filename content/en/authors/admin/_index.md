@@ -26,38 +26,34 @@ organizations:
 bio: >
   Hello, I’m Chaehyeon Kim, a backend developer focused on the essentials. I thrive on continuous learning and exploration, designing robust systems while growing through problem-solving. I embrace new technologies without fear and aim to create valuable solutions by staying true to the core principles of development. Like calm but deep waters, I aspire to be a developer who adds real value with a calm demeanor and deep knowledge and experience.
 
-sections:
-  - block: interests
-    content:
-      title: "Interest"
-      items:
-        - name: Web Services
-        - name: API Design & Integration
-        - name: Cloud Infrastructure
-        - name: Development & Deploy
-        - name: Computer Vision
 
-  - block: education
-    content:
-      title: "Education"
-      courses:
-        - course: B.S. in Computer Science and Engineering
+
+interests:
+  - Web Services
+  - API Design & Integration
+  - Cloud Infrastructure
+  - Development & Deploy
+  - Computer Vision
+
+education:
+  courses:
+    - course: B.S. in Computer Science and Engineering
           institution: Jeonbuk National University
           year: 2022 - 2026
 
-  - block: social
-    content:
-        title: "Social Profiles"
-        links:
-          - icon: envelope
-            url: 'mailto:esther107@jbnu.ac.kr'
-            icon_pack: fas
-          - icon: github
-            url: 'https://github.com/chaehyeon107'
-            icon_pack: fab
-          - icon: brands/x
-            url: 'https://x.com/107daydreaming'
-# Link to a PDF of your resume/CV from the About widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:esther107@jbnu.ac.kr'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/chaehyeon107
+  - icon: brands/x
+    url: https://x.com/107daydreaming
+
+
+
+sections:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
