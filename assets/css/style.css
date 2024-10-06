@@ -2,6 +2,9 @@ body {
     background-color: #dcc5cf; /* 배경색을 원하는 색상 코드로 변경 */
 }
 
+body .dark { 
+    background-color: grey;
+  }
 
 .block-text {
     text-align: justify;
@@ -13,3 +16,24 @@ body {
     margin: 20px 0;
     text-align: center;
   }
+
+  .cta-btn {
+    background-color: #e0e0e0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    color: #333;
+    text-align: center;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.cta-btn:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.cta-btn-wrapper {
+    text-align: center; /* Center align the button */
+}
