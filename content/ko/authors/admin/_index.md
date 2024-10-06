@@ -46,7 +46,7 @@ sections:
           year: 2022 - 2026
 
   - block: social
-      content:
+    content:
         title: "Social Profiles"
         links:
           - icon: envelope
