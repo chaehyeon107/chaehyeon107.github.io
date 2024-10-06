@@ -11,7 +11,7 @@ sections:
       title: <span style="font-size:70%">ChaeHyeon PORTFOLIO</span>
       text: <br><span style="font-size:125%">Hello, I’m Chaehyeon Kim, a backend developer focused on the essentials. I thrive on continuous learning and exploration, designing robust systems while growing through problem-solving. I embrace new technologies without fear and aim to create valuable solutions by staying true to the core principles of development. Like calm but deep waters, I aspire to be a developer who adds real value with a calm demeanor and deep knowledge and experience.</span>
     
-        {{% cta cta_btn="./project/" cta_text="See project →" class="" %}}
+        {{% cta cta_btn="./project/" cta_text="See project →" %}}
 
 
 
