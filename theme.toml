@@ -44,3 +44,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
+
+[params]
+  logo = "images/logo.png"

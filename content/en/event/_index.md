@@ -9,8 +9,5 @@ banner:
   image: 'information.jpg'
 ---
 
-<h2><span style="font-size:70%">인생곡 PLAYLIST</span></h2>
+<h1>인생곡 PLAYLIST</h1>
 
-{{ range (where .Site.Pages "Section" "event/song") }}
-  {{ partial "views/community/custom_compact.html" (dict "item" .) }}
-{{ end }}

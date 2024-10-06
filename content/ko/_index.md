@@ -162,7 +162,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: TMI
       subtitle:
       text:
       count: 3
