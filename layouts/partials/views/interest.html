@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="{{ "css/interest.css" | relURL }}">
 <section id="interest" class="interest-section">
-    <h2>Interests</h2>
-  
-    {{ range .Params.interest }}
+    <h2>{{ .content.title }}</h2>
+    <ul>
+      {{ range .content.items }}
       <div class="interest-category">
         <h3>{{ .name }}</h3>
         <p>{{ .description }}</p>
@@ -11,5 +11,6 @@
         {{ end }}
       </div>
     {{ end }}
+  </ul>
   </section>
   
