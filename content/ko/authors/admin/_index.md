@@ -63,7 +63,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
           
 
-interest:
+interesting:
   - name: |
      알고리즘
      (Algorithm)

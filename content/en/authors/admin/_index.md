@@ -66,7 +66,7 @@ sections:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
 # Highlight the author in author lists? (true/false)
-  - block: interest
+  - block: interesting
     content:
       title: 'ChaeHyeon’s CODING Interests'
       items:

@@ -23,7 +23,7 @@ sections:
           <span class="justified-text">
           Hello, I’m Chaehyeon Kim, a backend developer focused on the essentials. I thrive on continuous learning and exploration, designing robust systems while growing through problem-solving. I embrace new technologies without fear and aim to create valuable solutions by staying true to the core principles of development. Like calm but deep waters, I aspire to be a developer who adds real value with a calm demeanor and deep knowledge and experience.</span>
       
-  - block: interest
+  - block: interesting
     content:
       title: 'ChaeHyeon’s CODING Interests'
       items:
