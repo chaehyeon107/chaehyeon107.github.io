@@ -8,4 +8,4 @@ banner:
   image: 'information.jpg'
 ---
 
-<h1>인생곡 PLAYLIST</h1>
+<h3>인생곡 PLAYLIST</h3>

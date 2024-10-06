@@ -25,7 +25,7 @@ main:
     weight: 320
 
   - name: Information
-    url: event
+    url: information
     weight: 400
     
   - name: Contact
