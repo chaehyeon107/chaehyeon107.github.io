@@ -72,32 +72,44 @@ major: 컴퓨터공학
 
 
 interest:
-  - name: 알고리즘(Algorithm)
+  - name: |
+      알고리즘
+      (Algorithm)
     description: |
       전북대학교 컴퓨터인공지능학부 알고리즘 동아리 ALPS 소속으로 백준 사이트에서 **알고리즘 학습 진행**.
     icon: code-branch
     icon_pack: fas
-  - name: spring 프레임워크 (Spring Framework)
+  - name: |
+      spring 프레임워크
+      (Spring Framework)
     description: |
       인프런 사이트 인강을 통해 **spring 프레임워크 기초**를 학습 중.
     icon: seedling
     icon_pack: fas
-  - name: 클라우드 컴퓨팅 (Cloud Computing)
+  - name: |
+      클라우드 컴퓨팅 
+      (Cloud Computing)
     description: |
       인프라 관리 및 서비스 배포 등 클라우드 컴퓨팅에 관한 지식을 탐구 중. **aws 관련 자격증 취득 공부**를 목표로 함.
     icon: calculator
     icon_pack: fas
-  - name: 데이터 아키텍쳐 설계 (Data Architecture)
+  - name: |
+      데이터 아키텍쳐 설계
+      (Data Architecture)
     description: |
       추후 진행할 전북대학교 맛집 프로젝트의 데이터 아키텍쳐 설계를 목표로 함. 목표를 달성하기 위한 첫 걸음으로 현재 **sqld 자격증 공부** 진행 중.
     icon: chart-line
     icon_pack: fas
-  - name: 개발 (Development)
+  - name: |
+      개발
+      (Development)
     description: |
       Full-Stack 기반의 응용 어플리케이션 개발. 현재 **전북대학교 맛집 웹앱 프로젝트**를 계획 중.
     icon: laptop
     icon_pack: fas
-  - name: 영어회화(Multi-modality)
+  - name: |
+      영어회화
+      (Multi-modality)
     description: |
       개발자의 덕목인 영어를 자유롭게 구사하기 위해 **회화 공부** 진행.
     icon: globe
