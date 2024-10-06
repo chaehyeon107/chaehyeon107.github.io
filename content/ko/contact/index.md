@@ -11,7 +11,7 @@ sections:
       text: |-
         <br> <span style="font-size:95%">저에게 연락주시고 싶으신 분은 아래 정보를 참고해주세요.</span> <br>
       email: esther107(at)jbnu.ac.kr
-      phone: +82-63-251-2231
+      phone: +82-10-7114-2231
       address:
         street: 전북대학교 공과대학 7호관
         city: 전주시

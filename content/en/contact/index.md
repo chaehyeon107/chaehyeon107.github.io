@@ -11,7 +11,7 @@ sections:
       text: |-
         <br> <span style="font-size:95%">If you would like to contact me, please refer to the information below.</span> <br>
       email: esther107(at)jbnu.ac.kr
-      phone: +82-63-251-2231
+      phone: +82-10-7114-2231
       address:
         street: Jeonbuk National University College of Engineering Building No. 7
         city: Jeonju-si
