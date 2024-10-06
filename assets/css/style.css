@@ -1,10 +1,4 @@
-body {
-    background-color: #dcc5cf; /* 배경색을 원하는 색상 코드로 변경 */
-}
 
-body .dark { 
-    background-color: grey;
-  }
 
 .block-text {
     text-align: justify;
