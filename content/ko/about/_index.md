@@ -3,6 +3,10 @@
 title: "about"
 date: 2024-10-01
 type: landing
+draft: false
+
+first_name: ChaeHyeon
+last_name: Kim
 
 sections:
 
@@ -11,10 +15,6 @@ sections:
     content:
       title: ''
       username: admin
-    
-    design:
-      background:
-        color: #FFFFFF
 
   - block: markdown
     content:
@@ -70,7 +70,7 @@ sections:
           icon: globe
           icon_pack: fas
     design:
-      columns: 1
+      columns: 2
       
   - block: techstack
     content:
@@ -104,6 +104,6 @@ sections:
             - name: Eclipse
             - name: Android Studio
     design:
-      columns: 1
+      columns: 2
 
 ---

@@ -6,12 +6,12 @@
     display: block;
   }
   
-  .youtube-video {
+.youtube-video {
     margin: 20px 0;
     text-align: center;
   }
 
-  .cta-btn {
+.cta-btn {
     background-color: #e0e0e0;
     padding: 5px 10px;
     border-radius: 5px;
@@ -19,8 +19,9 @@
     color: #333;
     text-align: center;
     transition: background-color 0.3s ease, color 0.3s ease;
-    display: inline-block;
+    display: block;
     text-decoration: none;
+    width: 100%
 }
 
 .cta-btn:hover {
@@ -30,9 +31,4 @@
 
 .cta-btn-wrapper {
     text-align: center; /* Center align the button */
-}
-
-.logo {
-    max-width: 300px;
-    height: auto;
 }

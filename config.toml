@@ -1,1 +1,5 @@
 baseURL = "https://chaehyeon107.github.io/"
+
+[params]
+  search = true
+  ogImage = "assets/media/toplogo.png"

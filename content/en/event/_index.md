@@ -1,13 +1,11 @@
 ---
 title: TMI
 # Listing view
-view: compact
-
+view: community/custom_compact
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   image: 'information.jpg'
 ---
 
-<h1>인생곡 PLAYLIST</h1>
-
+<h1>FAVORITE SONG PLAYLIST</h1>
