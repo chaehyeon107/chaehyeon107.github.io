@@ -5,7 +5,7 @@
 
 main:
   - name: Profile
-    url: /authors/admin/
+    url: /author/김채현/
     weight: 100
 
   - name: Project
