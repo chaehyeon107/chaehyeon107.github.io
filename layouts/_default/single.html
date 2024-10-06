@@ -13,7 +13,7 @@
   {{ end }}
 
   {{ range .Params.sections }}
-    {{ if eq .block "interest" }}
+    {{ if eq .block "interesting" }}
         {{ partial "blocks/interesting.html" . }}
     {{ end }}
   {{ end }}
