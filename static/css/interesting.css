@@ -1,0 +1,38 @@
+.interest-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .interest-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: flex-start;
+  }
+  
+  .interest-item {
+    flex: 1 1 100%;
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+    max-width: 300px;
+  }
+  
+  .interest-item i {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .interest-item h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .interest-item p {
+    font-size: 1em;
+    color: #555;
+  }
