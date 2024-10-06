@@ -51,7 +51,7 @@ sections:
           text-color: '#000'
           url: project
 
-      - title: <span style="font-size:70%">Inform</span>
+      - title: <span style="font-size:70%">Plans</span>
         content: <span style="font-size:70%">인터뷰와 미래에 만들어질 프로젝트를 확인합니다.</span>
         align: center
         background:
@@ -64,7 +64,7 @@ sections:
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Inform</span>
+          text: <span style="font-size:60%">Plans</span>
           text-color: '#000'
           url: futurity
 

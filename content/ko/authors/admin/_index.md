@@ -65,9 +65,11 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-_build:
-  render: always
-  list: never
+organizations:
+  - name: 전북대학교 컴퓨터공학부
+    url: https://csai.jbnu.ac.kr/csai/index.do
+major: 컴퓨터공학
+
 
 interest:
   - name: 알고리즘(Algorithm)
@@ -129,4 +131,6 @@ techstack:
       - name: Pycharm
       - name: Eclipse
       - name: Android Studio
+  
+website: "https://chaehyeon107.github.io/"
 ---

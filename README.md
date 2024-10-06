@@ -1,3 +1,34 @@
+# [ChaeHyeon PORTFOLIO](https://chaehyeon107.github.io/)
+[![Screenshot](./preview.png)](https://chaehyeon107.github.io/)
+
+**백엔드 개발자 김채현의 포트폴리오 사이트**입니다.
+백엔드 개발자로서의 이력과 계획, 지금까지 개발한 프로젝트, 약간의 TMI를 만나보실 수 있습니다. 
+
+본 사이트는 hugo template를 이용하여 만들어진 사이트입니다.
+2024년도 2학기 웹서비스 설계 1차 과제 - Github pages로 개인 페이지 소개 (포폴) 웹사이트 만들기 를 수행하기 위해 만들어졌습니다.
+
+## 페이지 구성
+### Home
+웹사이트의 메인 화면입니다. 여러 페이지를 연결하는 주요 페이지로 동작하며 코딩 관심사, 최근 업로드 등을 확인할 수 있습니다.
+
+### Profile
+김채현 개발자의 인적 소개란입니다. 
+
+### Project
+지금까지 구현한 사이드 프로젝트를 소개하는 페이지입니다.
+
+### Plans
+futurity와 interview 페이지로 구성되어 있습니다. futurity에서는 대학생활 계획, 미래에 수행할 프로젝트 등 각종 계획을 정리해놓았습니다.
+interview에서는 인터뷰 형식으로 Q&A를 진행했습니다.
+
+### Information
+관심사와 목표 등 TMI를 확인하는 페이지입니다. 
+
+### Contact
+저와 연락할 수 있는 매체 정보를 기록한 페이지입니다. 
+
+
+#### 아래는 제가 사용한 템플릿입니다.
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
