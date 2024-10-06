@@ -192,7 +192,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: publication
+      page_type: futurity
     design:
       view: community/custom_card
       columns: '2'

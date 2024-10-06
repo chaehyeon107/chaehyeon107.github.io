@@ -6,14 +6,14 @@
   <title>{{ .Title }}</title>
 
   
-  {{ if eq .Title "김채현" }}
+  <!-- {{ if eq .Title "김채현" }}
     <div class="hero-section-wrapper">
       {{ partial "views/hero.html" . }}
     </div>
-  {{ end }}
+  {{ end }} -->
 
   {{ range .Params.sections }}
-    {{ if eq .block "interesting" }}
+    {{ if eq .block "interest" }}
         {{ partial "blocks/interesting.html" . }}
     {{ end }}
   {{ end }}

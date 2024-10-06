@@ -1,7 +1,7 @@
 ---
 title: TMI
 # Listing view
-view: compact
+view: community/custom_compact.html
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
@@ -9,8 +9,4 @@ banner:
   image: 'information.jpg'
 ---
 
-<h2><span style="font-size:70%">인생곡 PLAYLIST</span></h2>
-
-{{ range (where .Site.Pages "Section" "event/song") }}
-  {{ partial "views/community/custom_compact.html" (dict "item" .) }}
-{{ end }}
+<h1>인생곡 PLAYLIST</h1>
